@@ -1,3 +1,5 @@
+/* this code provides the heading and distance to a programmed gps location from current location
+  The information about current location is obtained from a gps module that gives serial NMEA data*/
 #include <SoftwareSerial.h>
 #include <TinyGPS.h>
 
