@@ -1,3 +1,5 @@
+/*This code turns the bot till it faces a particular direction (specified by variable head)
+and then moves it forward*/
 #include "Wire.h"
 #include "I2Cdev.h"
 #include "HMC5883L.h"
