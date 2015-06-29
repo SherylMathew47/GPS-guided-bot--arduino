@@ -1,6 +1,8 @@
 # GPS-guided-bot-arduino
+ITSP Project : GPS guided bot with collision avoidance
 
-This is the arduino code. Upload Final Sketch to arduino. Install libraries TinyGPS.h and NewPing.h first.
+This is the arduino code for a bot that uses a GPS system to reach an inputted destination and is equipped with collision avoidance. 
+To use the code, upload Final Sketch to arduino board. Install libraries TinyGPS.h and NewPing.h first.
 Libraries HMC5883L.h and I2Cdev.h are also needed.
 
 You'll find them here:
