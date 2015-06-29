@@ -1,2 +1,6 @@
 # GPS-guided-bot-arduino
-This is the arduino code. Upload Final Sketch to arduino.
+This is the arduino code. Upload Final Sketch to arduino. Install libraries TinyGPS.h and NewPing.h first.
+Libraries HMC5883L and I2Cdev are also needed. You'll find them here:
+https://drive.google.com/file/d/0Bzuz9Z6Ay9jzc1l5dWFBVDc1TlU/view
+http://arduiniana.org/libraries/tinygps/
+http://playground.arduino.cc/Code/NewPing
