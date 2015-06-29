@@ -5,7 +5,7 @@ Libraries HMC5883L.h and I2Cdev.h are also needed.
 
 You'll find them here:
 
-https://drive.google.com/file/d/0Bzuz9Z6Ay9jzc1l5dWFBVDc1TlU/view
+ HMC5883L, I2Cdev : https://drive.google.com/file/d/0Bzuz9Z6Ay9jzc1l5dWFBVDc1TlU/view
 
 TinyGPS : http://arduiniana.org/libraries/tinygps/
 
