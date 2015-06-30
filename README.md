@@ -14,4 +14,4 @@ TinyGPS : http://arduiniana.org/libraries/tinygps/
 NewPing : http://playground.arduino.cc/Code/NewPing
 
 Few other codes have also been provided which can be used to test if the components are working together properly.
-https://drive.google.com/file/d/0B-Z-2zgZiATkRjdqQU41Q3g2Q1U/view
+
